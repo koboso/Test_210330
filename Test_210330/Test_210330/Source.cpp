@@ -3,4 +3,7 @@
 void main() {
 	printf("Hello world");
 	fgetc(stdin);
+
+
+	printf("hello ");
 }
